@@ -10,7 +10,8 @@
 
 function printNumbers(i) {
 
-    for (i = -25; i <= 20; i++) {
+    for (i = -25; i <= 20; i++)
+    {
         console.log(i);
     }
 }

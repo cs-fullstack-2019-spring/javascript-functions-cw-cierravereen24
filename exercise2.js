@@ -6,5 +6,5 @@ function wholeName(firstName, lastName ) {
 
 }
 
-console.log(wholeName("Cierra", "Vereen"));
+console.log(wholeName(" Cierra", "Vereen"));
 
